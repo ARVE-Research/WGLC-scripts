@@ -1,0 +1,2 @@
+30m/*.nc filter=lfs diff=lfs merge=lfs -text
+05m/*.nc filter=lfs diff=lfs merge=lfs -text
